@@ -2,4 +2,4 @@
 
 # I am learning Git
 
-# I like strawberry smoothie
+# I like banana smoothie
