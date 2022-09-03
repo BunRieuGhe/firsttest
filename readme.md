@@ -1,3 +1,3 @@
 # Hi
 
-# Do you want to build a snowman?
+# I am learning Git
